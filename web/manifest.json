@@ -1,6 +1,6 @@
 {
-    "name": "callan_app",
-    "short_name": "callan_app",
+    "name": "flutter_firebase_fire",
+    "short_name": "flutter_firebase_fire",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
